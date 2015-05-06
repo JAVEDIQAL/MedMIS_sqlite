@@ -1,0 +1,64 @@
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\bin\Debug\MedMIS.exe.config
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\bin\Debug\MedMIS.exe
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\bin\Debug\MedMIS.pdb
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.Form1.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.Properties.Resources.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.csproj.GenerateResource.Cache
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.exe
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.pdb
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.csprojResolveAssemblyReference.cache
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.ReportForm.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.Login.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.Add_Medicine.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.MedMenu.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.Add_Party.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.Search.resources
+D:\Javed\PROGRAMMING BOOKS\C#\MedMIS\MedMIS\obj\Debug\MedMIS.SellReportForm.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\MedMIS.exe.config
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.exe
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.pdb
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.Add_Medicine.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.Add_Party.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.Form1.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.Login.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.MedMenu.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.Properties.Resources.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.ReportForm.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.Search.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.SellReportForm.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\obj\Debug\MedMIS.csproj.GenerateResource.Cache
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\MedMIS.exe
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\MedMIS.pdb
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\EntityFramework.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\EntityFramework.xml
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS\MedMIS\bin\Debug\System.Data.SQLite.xml
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\MedMIS.exe.config
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.exe
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.pdb
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\MedMIS.exe
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\MedMIS.pdb
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\EntityFramework.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\EntityFramework.xml
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\bin\Debug\System.Data.SQLite.xml
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.Add_Medicine.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.Add_Party.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.Form1.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.Login.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.MedMenu.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.Properties.Resources.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.ReportForm.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.Search.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.SellReportForm.resources
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\MedMIS_sqlite\MedMIS\obj\Debug\MedMIS.csproj.GenerateResource.Cache
